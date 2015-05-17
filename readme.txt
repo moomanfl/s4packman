@@ -1,19 +1,21 @@
-	s4packman.dll
-	A .NET class library to read and modify .package files for The Sims 4 by Electronic Arts.
-    Copyright (C) 2015  Timothy Browning
+s4packman.dll
+A .NET class library to read and modify .package files for The Sims 4 by Electronic Arts.
+testapp.exe
+A program to test progress and capabilities of the s4packman.dll class library.
+Copyright (C) 2015  Timothy Browning
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 I started this project because I had not seen a conflict detector for the Sims 4 Mods directory like Delphy's program for Sims 3. So I set out to make one.
 
