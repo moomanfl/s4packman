@@ -1,0 +1,9 @@
+5/17/2015
+* Finish rest of exported properties in s4packman.
+* Make Index class. Make a Collection for it. Export Collection as a property.
+* Make a method to read specific file blobs when called for by Index.
+* Dive into research on the compression methods used by EA and how to decompress the blobs.
+* Write the code to decrypt blobs.
+* Write plugin code to add support for loading other class libraries that will parse decompressed blobs.
+* Write plugin interfaces and the plugins that go with them.
+* Write Packaginator (name?) to be one-stop shop for all your Sims 4 package needs.
